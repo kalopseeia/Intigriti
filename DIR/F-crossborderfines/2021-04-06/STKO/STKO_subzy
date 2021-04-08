@@ -1,0 +1,23 @@
+[ * ] Loaded 16 targets
+[ * ] Loaded 43 fingerprints
+[ No ] HTTPS by default (--https)
+[ 10 ] Concurrent requests (--concurrency)
+[ No ] Check target only if SSL is valid (--verify_ssl)
+[ 30 ] HTTP request timeout (in seconds) (--timeout)
+[ No ] Show only potentially vulnerable subdomains (--hide_fails)
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.amendesroutieres.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.trafficfines.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.amendesroutieres.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.verkehrsstrafen.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.verkeersboeten.be
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.trafficfines.be
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.verkeersboeten.be
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.verkehrsstrafen.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.votreamende.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.ihrestrafe.be
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.yourfine.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.yourfine.be
+[  [31mNOT VULNERABLE[0m  ]  -  http://www.uwboete.be
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.uwboete.be
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.ihrestrafe.be
+[  [31mNOT VULNERABLE[0m  ]  -  https://www.votreamende.be
